@@ -1,0 +1,14 @@
+
+.navbar_link{
+   
+    padding: 10px;
+    border-radius: 10px;
+    color: wheat;
+    text-align: center;
+}
+
+
+.navbar_link:hover{
+    background-color: whitesmoke;
+    color: black;
+}
